@@ -20,8 +20,8 @@ ideas for a future KDE menu.
 
 %description -l pl.UTF-8
 Tasty Menu to zamiennik standardowego menu KDE, którego założeniem
-jest udostępniać maksymalną użyteczność lub, co najwyżej,
-poletko testowe dla idei i koncepcji przyszłych wersji menu KDE.
+jest udostępniać maksymalną użyteczność lub, co najwyżej, poletko
+testowe dla idei i koncepcji przyszłych wersji menu KDE.
 
 %prep
 %setup -q
