@@ -1,12 +1,12 @@
 Summary:	A Kmenu replacement
 Summary(pl.UTF-8):	Zamiennik menu KDE
 Name:		tastymenu
-Version:	1.0.2
+Version:	1.0.4
 Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.notmart.org/files/%{name}-%{version}.tar.bz2
-# Source0-md5:	e535721a0e7f4faff26a01f4b0a1d17c
+# Source0-md5:	237c135f083ec2fed276ea930bad2cb5
 URL:		http://kde-apps.org/content/show.php?content=41866
 BuildRequires:	kdebase-devel
 BuildRequires:	kdelibs-devel >= 9:%{_kdever}
